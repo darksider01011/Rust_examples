@@ -1,0 +1,7 @@
+fn main() {
+    func(5, 'H');    
+}
+
+fn func(x: i32, y: char) {
+    println!("x:{x}, y:{y}");
+}
